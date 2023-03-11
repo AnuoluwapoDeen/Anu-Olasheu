@@ -24,5 +24,5 @@ In my portfolio, you can find my [projects](https://github.com/) and guides on d
 
 ### 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/anuoluwapo-anu-olasheu-02985220b/)
-- [Kaggle](https://)
+- [Kaggle](https://www.kaggle.com/anuoluwapodeen)
 - [HankerRank](https://www.hackerrank.com/anuoluwadeen)
