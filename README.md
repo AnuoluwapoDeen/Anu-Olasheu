@@ -8,7 +8,7 @@ I use SQL to query data in Salesforce and analyze past buying behavior, as well 
 
 I thrive on learning new skills.
 
-⚡ Fun fact: In my current position, I sell data quality software that helps to deduplicate, standardize, validate, and consolidate data in Salesforce CRM.
+In my current position, I sell data quality software that helps to deduplicate, standardize, validate, and consolidate data in Salesforce CRM.
 
 ### 📚 Projects & Guides 📚
 In my portfolio, you can find my [projects](https://github.com/) and guides on data analytics.
