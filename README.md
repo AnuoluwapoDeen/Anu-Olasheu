@@ -23,6 +23,6 @@ In my portfolio, you can find my [projects](https://github.com/) and guides on d
 - Visualisation: Tableau, Power BI
 
 ### 🙌🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/anuoluwapo-anu-olasheu-02985220b/)
+- [Linkedin](https://www.linkedin.com/in/anu-olasheu-02985220b/)
 - [Kaggle](https://www.kaggle.com/anuoluwapodeen)
 - [HankerRank](https://www.hackerrank.com/anuoluwadeen)
